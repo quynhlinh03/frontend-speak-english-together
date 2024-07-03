@@ -1,0 +1,30 @@
+.liveItemCustom {
+  &.mantine-7wcpwf {
+    background-color: $milkWhite;
+  }
+  .mantine-w2aeve {
+    background-color: $pinkDarkLight;
+    color: $pinkDark;
+  }
+  .mantine-nexegj {
+    background-color: $navyBlurLight;
+    color: $navyBlur;
+    &.private {
+      background-color: $pinkDarkLight;
+      color: $pinkDark;
+    }
+  }
+  .mantine-1mn6doo {
+    color: $navyBlur;
+    border-color: $navyBlur;
+  }
+}
+
+input:checked + .mantine-x21r6k {
+  background-color: $navyBlur;
+  border-color: $navyBlur;
+}
+
+.modal_preview_content {
+  width: 800px;
+}

@@ -1,0 +1,15 @@
+.navlinkCustom {
+  &.mantine-h1ugm4 {
+    padding: 0.6rem;
+    margin: 0.5rem 0;
+  }
+  &.mantine-h1ugm4:hover {
+    background-color: $navyBlurLight;
+    border-radius: 20px;
+  }
+  &.mantine-h1ugm4[data-active] {
+    background-color: $navyBlurLight;
+    color: $navyBlur;
+    border-radius: 20px;
+  }
+}

@@ -1,0 +1,22 @@
+.tabCustom {
+  .mantine-sm5uqv[data-active] {
+    background-color: transparent;
+    color: $pinkDark;
+    border: 0.12rem solid $pinkDark;
+    border-radius: 10rem;
+  }
+  .mantine-sm5uqv {
+    background-color: transparent;
+  }
+}
+
+.textDark {
+  color: $navyDark;
+}
+
+.highlight.added {
+  background-color: #FFBE98;
+}
+.highlight.removed {
+  background-color: #A5DD9B;
+}

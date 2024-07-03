@@ -1,0 +1,89 @@
+.customTextInput {
+  background-color: $milkWhite;
+  .mantine-1fzet7j {
+    padding-bottom: 0.4rem;
+  }
+  .mantine-Input-input {
+    background-color: #fefaf6;
+    border-radius: 0.5rem;
+    color: #212529;
+  }
+  .mantine-130tj0n {
+    height: calc(2.5rem - 0.125rem);
+  }
+  .mantine-a5k5aj:focus,
+  .mantine-a5k5aj:focus-within {
+    outline: none;
+    border-color: rgba(31, 65, 114, 0.7);
+  }
+  .mantine-1vx031y:focus,
+  .mantine-1vx031y:focus-within {
+    outline: none;
+    border-color: rgba(31, 65, 114, 0.7);
+  }
+  .mantine-17huq03:focus,
+  .mantine-17huq03:focus-within {
+    outline: none;
+    border-color: rgba(31, 65, 114, 0.7);
+  }
+  .mantine-y3khei:focus,
+  .mantine-y3khei:focus-within {
+    outline: none;
+    border-color: rgba(31, 65, 114, 0.7);
+  }
+  .mantine-marsgz:focus,
+  .mantine-marsgz:focus-within {
+    outline: none;
+    border-color: rgba(31, 65, 114, 0.7);
+  }
+  .mantine-1jddbex[data-selected] {
+    background-color: rgba(31, 65, 114, 0.5);
+    color: #fff;
+  }
+  .mantine-b3hur6:focus,
+  .mantine-b3hur6:focus-within {
+    outline: none;
+    border-color: rgba(31, 65, 114, 0.7);
+  }
+}
+.filterSelect {
+  &.customTextInput .mantine-Input-input {
+    border-radius: 1.5rem;
+    width: 14rem;
+    height: 2.4rem;
+    background-color: rgba(255, 239, 224, 0.1);
+  }
+}
+.avatar {
+  .mantine-1fzet7j {
+    font-weight: 400;
+  }
+}
+.iconArea {
+  .mantine-16k3d8y {
+    align-items: flex-start;
+    top: 15px;
+  }
+}
+.profile {
+  .mantine-1fzet7j {
+    font-weight: 400;
+  }
+  .mantine-Input-input {
+    font-weight: 400;
+  }
+}
+.customInput {
+  .mantine-1fzet7j {
+    font-weight: 400;
+  }
+  .mantine-Input-input {
+    height: 2.5rem;
+  }
+}
+.customButton {
+  height: 2.5rem;
+}
+.themeiconCustom {
+  background-color: $pinkPastel;
+}

@@ -1,0 +1,63 @@
+@charset 'UTF-8';
+
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@import "abstracts/variables";
+
+@import "base/base";
+
+@import "layouts/header";
+
+@import "layouts/layout";
+
+@import "layouts/Aside/asidelink";
+
+@import "layouts/Aside/aside";
+
+@import "layouts/Navbar/navbar";
+
+@import "components/UI/button/button";
+
+@import "components/UI/accordionstep/accordionstep";
+
+@import "components/loginform/loginform";
+
+@import "components/loginform/loginregister";
+
+@import "components/search/search";
+
+@import "components/messager/messlist";
+
+@import "components/notifications/notilist";
+
+@import "components/livelist/liveitem";
+
+@import "components/translate/translatetool";
+
+@import "components/collections/collectionslistmodal";
+
+@import "components/collections/collectiondetail";
+
+@import "components/airoom/subjectspeaking";
+
+@import "components/airoom/voicerecord";
+
+@import "components/chat/chatbox";
+
+@import "pages/home";
+
+@import "pages/chat";
+
+@import "pages/login";
+
+@import "pages/live";
+
+@import "pages/account";
+
+@import "pages/airoom";
+
+@import "pages/savedspeeches";
+
+@import "pages/detailspeech";
+
+@import "pages/flashcardvocabulary";

@@ -1,0 +1,45 @@
+.search {
+  border: 1px solid #f0f0f0;
+  padding: 0.4rem;
+  display: flex;
+  align-items: center;
+  border-radius: 20rem;
+  // width: 400px;
+  button {
+    outline: none;
+    border: none;
+    background-color: #fff;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+  input {
+    width: 21rem;
+    color: #657384;
+    background-color: $milkWhite;
+    font-size: 14px;
+    font-family: Be Vietnam Pro, sans-serif;
+    outline: none;
+    border: none;
+    padding-left: 0.5rem;
+    &:focus-visible {
+      outline-offset: 0px;
+    }
+    &:focus {
+      cursor: pointer;
+    }
+  }
+  .search-btn {
+    background-color: #ebf2f2;
+    color: $navyBlur;
+    background-color: $navyBlurLight;
+    border-radius: 2rem;
+    padding: 0.5rem;
+    margin-left: 0.4rem;
+    border: none;
+  }
+  .clear {
+    padding: 0.2rem;
+    color: #657384;
+  }
+}

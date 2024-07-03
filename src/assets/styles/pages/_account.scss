@@ -1,0 +1,23 @@
+.accountTab {
+  .mantine-1qx5upb[data-active] {
+    border-color: $pinkDark;
+    color: $pinkDark;
+  }
+  .mantine-1qx5upb:hover {
+    background-color: rgba(241, 180, 187, 0.05);
+  }
+  .mantine-1qx5upb {
+    padding: 1rem;
+  }
+}
+
+.paperColor {
+  background-color: $milkWhite;
+}
+
+.avatarProfile {
+  border: solid 2px $pinkDark;
+  border-radius: 100%;
+  padding: 0.2rem;
+  height: fit-content;
+}

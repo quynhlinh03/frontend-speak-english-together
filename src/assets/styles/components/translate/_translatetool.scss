@@ -1,0 +1,59 @@
+.actionicon {
+  &.mantine-1dyvv7s {
+    background-color: $pinkPastel;
+  }
+}
+.actioniconDone {
+  &.mantine-1dyvv7s {
+    background-color: $navyBlur;
+  }
+}
+.indexBg {
+  .mantine-1c38bo1 {
+    color: #1f4172;
+    background-color: rgba(31, 65, 114, 0.1);
+  }
+}
+.textarea {
+  .mantine-b3hur6 {
+    background-color: #fefaf6;
+  }
+  .mantine-b3hur6:focus,
+  .mantine-b3hur6:focus-within {
+    outline: none;
+    border-color: rgba(31, 65, 114, 0.5);
+  }
+}
+.color1 {
+  color: #0c2d57;
+}
+.color2 {
+  color: #fc6736;
+}
+.color3 {
+  color: #ffb0b0;
+}
+.color4 {
+  color: #ffb0b0;
+  margin-top: 0.3rem;
+}
+.meaning {
+  .mantine-p2utts {
+    display: none;
+  }
+}
+.accordionCustom {
+  .mantine-1y7tyx5[data-active],
+  .mantine-1s2yyo5[data-active] {
+    background-color: #fefaf6;
+  }
+  .mantine-1xaru4y:hover,
+  .mantine-u1ik47:hover {
+    background-color: #fefaf6;
+  }
+  .mantine-1y7tyx5 {
+    border-right: 0.0625rem solid #dee2e6 !important;
+    border-left: 0.0625rem solid #dee2e6 !important;
+    border: none;
+  }
+}

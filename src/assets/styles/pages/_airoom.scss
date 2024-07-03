@@ -1,0 +1,26 @@
+.stepperCustom {
+  .mantine-dnny8b {
+    border: 0.125rem solid $pinkBackground;
+    background-color: $pinkPastelLight;
+    color: $pinkPastelLight;
+    font-size: 1rem;
+  }
+  .mantine-dnny8b[data-progress] {
+    border-color: $pinkDark;
+    color: $pinkDark;
+    background-color: $pinkBackground;
+  }
+  .mantine-dnny8b[data-completed] {
+    background-color: $navyBlur;
+    border-color: $navyBlur;
+    color: #fff;
+  }
+  .mantine-1jm9ghi {
+    background-color: $navyBlur;
+    height: 0.165rem;
+  }
+  .mantine-2e9ihd {
+    background-color: $pinkPastelLight;
+    height: 0.165rem;
+  }
+}

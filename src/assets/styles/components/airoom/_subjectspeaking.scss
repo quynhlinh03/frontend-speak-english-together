@@ -1,0 +1,23 @@
+.subject {
+  .mantine-1fzet7j {
+    padding-bottom: 6.4px;
+    font-weight: 400;
+  }
+}
+
+.tabSubject {
+  .mantine-sm5uqv[data-active] {
+    font-weight: 500;
+  }
+  .mantine-sm5uqv {
+    background-color: transparent;
+    color: #868e96;
+    font-weight: 450;
+  }
+}
+
+.resetSubject {
+  &:hover {
+    background-color: #1f4172;
+  }
+}
